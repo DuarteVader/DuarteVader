@@ -1,6 +1,6 @@
 ## Welcome to my World!
 - Name: Victor Duarte de Almeida
-- 🌱 I’m currently learning Java SpringBoot
+- 🌱 I’m currently learning Java SpringBoot and Everis BootCamp .Net
 - 📫 How to reach me: victorduarte02@hotmail.com
 - Age: 23 😃
 
