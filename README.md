@@ -1,6 +1,6 @@
 ## Welcome to my World! <img alt="Victor-darth" height="30" width="30" src="https://emojis.slackmojis.com/emojis/images/1450319459/134/death_star.png?1450319459">
 - Name: Victor Duarte de Almeida
-- 🌱 I’m currently learning Java SpringBoot and Everis BootCamp .Net
+- 🌱 I’m currently learning Sequelize, Advanced ReactJS and React Native, Material UI...
 - 📫 How to reach me: victorduarte02@hotmail.com
 - Age: 23 😃
 
