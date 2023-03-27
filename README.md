@@ -1,6 +1,6 @@
 ## Welcome to my World! <img alt="Victor-darth" height="30" width="30" src="https://emojis.slackmojis.com/emojis/images/1450319459/134/death_star.png?1450319459">
 - Name: Victor Duarte de Almeida
-- 🌱 I’m currently learning Sequelize, Advanced ReactJS and VueJs, Chakra UI, PHP Laravel...
+- 🌱 I’m currently learning CI/CD with github actions, Advanced NextJS with TypeScript and VueJs, Chakra UI...
 - 📫 How to reach me: victorduarte02@hotmail.com
 - Age: 24 😃
 
