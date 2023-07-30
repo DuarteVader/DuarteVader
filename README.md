@@ -2,7 +2,7 @@
 - Name: Victor Duarte de Almeida
 - 🌱 I’m currently learning CI/CD with github actions, Advanced NextJS with TypeScript and VueJs, Chakra UI...
 - 📫 How to reach me: victorduarte02@hotmail.com
-- Age: 24 😃
+- Age: 25 😃
 
 <div>
   <a href="https://github.com/DuarteVader">
