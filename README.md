@@ -4,7 +4,8 @@
 - **Name:** Victor Duarte de Almeida  
 - **Role:** Senior Backend Engineer  
 - 🌱 Currently learning: software architecture 
-- 📫 Reach me at: [victorduarte02@hotmail.com](mailto:victorduarte02@hotmail.com)  
+- 📫 Reach me at: [victorduarte02@hotmail.com](mailto:victorduarte02@hotmail.com)
+- 💼 Or connect with me: [LinkedIn](https://www.linkedin.com/in/victor-duarte-18966714a/)
 - 🎂 Age: 27  
 
 ---
@@ -18,7 +19,7 @@
   <img align="center" alt="Vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="AWS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
 </div>
 
